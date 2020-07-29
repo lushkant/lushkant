@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a developer focused in web development, although I also do hybrid/native mobile development in my pass time.
+## I'm a developer focusing in web development, although I also do hybrid/native mobile development in my free time.
 <!--
 **lushkant/lushkant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
