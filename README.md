@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### You can say hello over at my [Twitter](https://twitter.com/lushkant)
+### You can say hello over at [Twitter](https://twitter.com/lushkant)
