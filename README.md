@@ -2,7 +2,7 @@
 
 ## I'm a developer focusing in web development, I also do hybrid/native mobile development in my free time.
 
-🔭 I’m currently working on a mew startup idea.  
+🔭 I’m currently looking/working on a new startup idea.  
 
 🌱 I’m also learning or sharpening my Laravel & Kotlin/Android dev skills.  
 
