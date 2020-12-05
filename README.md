@@ -2,9 +2,9 @@
 
 ## I'm a developer focusing in web development, I also do hybrid/native mobile development in my free time.
 
-🔭 I’m currently working on a WordPress theme which has interchangeable skins.  
+🔭 I’m currently working on a mew startup idea.  
 
-🌱 I’m currently learning or sharpening my Kotlin/Android dev skills.  
+🌱 I’m also learning or sharpening my Laravel & Kotlin/Android dev skills.  
 
 👯 I’m looking to collaborate on WordPress Projects & Web apps in general.  
 
