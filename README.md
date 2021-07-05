@@ -4,7 +4,7 @@
 
 🔭 I’m currently looking/working on a new startup idea.  
 
-🌱 I’m also learning or sharpening my Laravel & Kotlin/Android dev skills.  
+🌱 I’m also learning or sharpening my Laravel & React dev skills.  
 
 👯 I’m looking to collaborate on WordPress Projects & Web apps in general.  
 
