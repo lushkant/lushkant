@@ -3,7 +3,7 @@
 I'm a developer focusing in web development and currently working at @codestag & @analogwp, I do side projects in my free time.
 
 * 🔭 I’m also working on new SaaS ideas.  
-* 🌱 I’m also learning and curating my Laravel & React dev skills.  
+* 🌱 I’m also learning and curating my PHP, JavaScript and Flutter dev skills.  
 * 💬 Ask me about WordPress or Web Dev.
 * 📫 How to reach me: lushkant@gmail.com
 
