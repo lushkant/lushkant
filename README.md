@@ -2,10 +2,10 @@
 
 I'm a developer focusing in web development and currently working at @codestag & @analogwp, I do side projects in my free time.
 
-* 🔭 I’m almost always working on new SaaS/Solopreneur ideas.  
+* 🔭 I’m almost always working on a SaaS/Solopreneur idea.  
 * 🌱 I’m also learning and curating my PHP, JavaScript and Flutter dev skills.  
-* 💬 Ask me about Web Dev, WordPress and Mobile Dev.
+* 💬 Ask me about Web Dev, WordPress and Design for Devs.
 * 📫 How to reach me: lushkant@gmail.com
-* 📝 Find more about me and my projects at [lushkant.com](https://lushkant.com)
+* 📝 Find more about me and my projects at [smalltowndev.com](https://smalltowndev.com) and [lushkant.com](https://lushkant.com)
 
-You can say hello over at Twitter [@lushkant](https://twitter.com/lushkant)
+You can say hello over at X/Twitter [@lushkant](https://x.com/lushkant)
