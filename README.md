@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a developer focusing in web development and currently working at @codestag & @analogwp, I do side projects in my free time.
+I'm a developer focusing in web development. Previously at [@AnalogWP](analogwp.com), [@Codestag](codestag.com), I do side projects in my free time.
 
 * 🔭 I’m almost always working on a SaaS/Solopreneur idea.  
 * 🌱 I’m also learning and curating my PHP, JavaScript and Flutter dev skills.  
