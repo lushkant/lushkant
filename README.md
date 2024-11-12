@@ -3,7 +3,8 @@
 I'm a developer focusing in web development, most of my time gets spent in developing for WordPress. I build and run some of the awesome projects in WordPress in my available time.
 
 - Founder at [SmallTowndev](https://smalltowndev.com) and [JetixWP](https://jetixwp.com)
-- Co-Founder at [AnalogWP](https://analogwp.com) 
+- Co-Founder at [AnalogWP](https://analogwp.com)
+- Also do some amazing work at [Zao Web](https://zao.is)
 - Previously at [Codestag](https://codestag.com)
 
 * 🔭 I’m almost always working on a Boring/Awesome project idea.  
